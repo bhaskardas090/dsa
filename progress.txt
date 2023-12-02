@@ -1,0 +1,3 @@
+Day 1: 02-12-2023
+
+Created the folder and decided to start learning DSA.
